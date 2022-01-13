@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JournalApp</string>
+    <string name="add_entry">Add a new entry</string>
+    <string name="title_label">Title</string>
+    <string name="date">Date</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="save_label">Save</string>
+    <string name="to">To</string>
+    <string name="record_entry">Record Entry</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help">Help</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_message">Are you sure you want to delete?</string>
+    <string name="delete_title">Delete</string>
+    <string name="application_info">This application allows the user to store the activities they performed, and when they did so. </string>s
+</resources>
